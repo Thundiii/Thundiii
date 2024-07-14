@@ -1,5 +1,5 @@
 - 👋 Hi, ich bin @Thundiii
-- 🏢 Derzeit bin ich in der Ausbildung zum Fachinformatiker für Anwendungsentwicklung 
+- 🏢 Ausgebildeter Fachinformatiker für Anwendungsentwicklung
 - 🌱 Ich arbeite größtenteils in Java und C#, bin aber auch vertraut mit PHP, HTML und Python
 - 📫 Mich erreicht man über [Instagram](https://instagram.com/thundiii), [Twitter](https://twitter.com/thundiiide) oder Discord (link folgt)
 - 🕸️📄 [Website](https://thundiii.de)
